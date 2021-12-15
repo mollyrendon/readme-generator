@@ -1,7 +1,6 @@
 // To Do:  
 //Make everything but licenses required 
 //Make license a checkbox that you can choose form and add none as an option
-//Make files go into read me files folder
 
 
 // TODO: Include packages needed for this application
@@ -13,48 +12,48 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
     {
         type: 'input',
-        message: 'What is the title of your project?',
+        message: 'What is the title of your project? (Required)',
         name:  'title',
     },
     {
         type: 'input',
-        message: 'What is the description of your project?',
+        message: 'What is the description of your project? (Required)',
         name:  'description',
     },
     {
         type: 'input',
-        message: 'What are the installation instructions? Dependencies, commands that are needed.',
+        message: 'What are the installation instructions? Dependencies, commands that are needed. (Required)',
         name:  'installation',
     },
     {
         type: 'input',
-        message: 'How do you use this application?',
+        message: 'How do you use this application? (Required)',
         name:  'usage',
     },
     {
-        type: 'input',
-        message: 'Type in the license you want to use, if none just hit enter',
+        type: 'checkbox',
+        message: 'Choose the license you would like to use',
         name:  'license',
         //choices: [''],
     },
     {
         type: 'input',
-        message: 'Who are the contributors for this project?',
+        message: 'Who are the contributors for this project? (Required)',
         name:  'contributing',
     },
     {
         type: 'input',
-        message: 'What commands do you need to run a test on your project?',
+        message: 'What commands do you need to run a test on your project? (Required)',
         name:  'tests',
     },
     {
         type: 'input',
-        message: 'What is your GitHub username?',
+        message: 'What is your GitHub username? (Required)',
         name:  'userName',
     },
     {
         type: 'input',
-        message: 'What is your email?',
+        message: 'What is your email? (Required)',
         name:  'email',
     },
     
