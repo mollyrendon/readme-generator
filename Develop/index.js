@@ -8,37 +8,37 @@ const questions = [
     {
         type: 'input',
         message: 'What is the title of your project?',
-        name:  'Title',
+        name:  'title',
     },
     {
         type: 'input',
         message: 'What is the description of your project?',
-        name:  'Description',
+        name:  'description',
     },
     {
         type: 'input',
         message: 'What are the installation instructions? Dependencies, commands that are needed.',
-        name:  'Installation',
+        name:  'installation',
     },
     {
         type: 'input',
         message: 'How do you use this application?',
-        name:  'Usage',
+        name:  'usage',
     },
     {
-        type: 'checkbox',
-        message: 'Choose from the following licenses.',
-        name:  'License',
+        type: 'input',
+        message: 'Type in the license you want to use, if none just hit enter',
+        name:  'license',
     },
     {
         type: 'input',
         message: 'Who are the contributors for this project?',
-        name:  'Contributing',
+        name:  'contributing',
     },
     {
         type: 'input',
         message: 'What commands do you need to run a test on your project?',
-        name:  'Tests',
+        name:  'tests',
     },
     {
         type: 'input',
@@ -48,7 +48,7 @@ const questions = [
     {
         type: 'input',
         message: 'What is your email?',
-        name:  'Email',
+        name:  'email',
     },
     
 ];
