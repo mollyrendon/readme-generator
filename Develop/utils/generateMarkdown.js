@@ -41,12 +41,12 @@ function generateMarkdown(data) {
   ${data.description}
 
   #Table of Contents
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#license)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   #Installation
   These programs need to be installed for the application to run: ${data.installation}
