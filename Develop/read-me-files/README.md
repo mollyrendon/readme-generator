@@ -1,9 +1,9 @@
 
   
-  # Test
+  # test 4
   
   # Description  
-  Test
+  test4
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,20 +15,19 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  Test
+  test 4
 
   # Usage
   The application's primary use is 
-  Testing
+  test4
 
-  # Contributing
-  Contributing:  
-  test
+  # Contributing  
+  test 4 ish
 
   # Tests
   The following commands are needed to run tests: 
-  Testing
+  test 4
 
   # Questions
-  For any questions please contact test@testing.com at this email test@testing.com.
+  For any questions please contact test4@hot at this email test4@hotmail.com.
 

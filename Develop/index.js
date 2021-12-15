@@ -1,8 +1,3 @@
-// To Do:  
-//Make everything but licenses required 
-//Make license a checkbox that you can choose form and add none as an option
-
-
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
@@ -31,12 +26,12 @@ const questions = [
         message: 'How do you use this application? (Required)',
         name:  'usage',
     },
-    // {
-    //     type: 'checkbox',
-    //     message: 'Choose the license you would like to use',
-    //     name:  'license',
-    //     //choices: [''],
-    // },
+    {
+        type: 'checkbox',
+        message: 'Choose the license you would like to use. If none, press enter',
+        name:  'license',
+        choices: ['MIT', 'Apache', 'MPL', 'GPL', 'AGPL'],
+    },
     {
         type: 'input',
         message: 'Who are the contributors for this project? (Required)',
