@@ -1,3 +1,9 @@
+// To Do:  
+//Make everything but licenses required 
+//Make license a checkbox that you can choose form and add none as an option
+//Make files go into read me files folder
+
+
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
@@ -29,6 +35,7 @@ const questions = [
         type: 'input',
         message: 'Type in the license you want to use, if none just hit enter',
         name:  'license',
+        //choices: [''],
     },
     {
         type: 'input',
@@ -55,7 +62,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("./read-me-files"+fileName, data, function(err) {
+    fs.writeFile("./read-me-files/"+fileName, data, function(err) {
         if (err) {
             return console.log(err);
         }
