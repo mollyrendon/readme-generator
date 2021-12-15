@@ -37,10 +37,10 @@ function generateMarkdown(data) {
   
   # ${data.title}
   
-  #Description  
+  # Description  
   ${data.description}
 
-  #Table of Contents
+  # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -48,23 +48,23 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
 
-  #Installation
+  # Installation
   These programs need to be installed for the application to run: 
   ${data.installation}
 
-  #Usage
+  # Usage
   The application's primary use is 
   ${data.usage}
 
-  #Contributing
+  # Contributing
   Contributing:  
   ${data.contributing}
 
-  #Tests
+  # Tests
   The following commands are needed to run tests: 
   ${data.tests}
 
-  #Questions
+  # Questions
   For any questions please contact ${data.userName} at this email ${data.email}.
 
 `;
