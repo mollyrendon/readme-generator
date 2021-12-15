@@ -30,12 +30,12 @@ const questions = [
         message: 'How do you use this application? (Required)',
         name:  'usage',
     },
-    {
-        type: 'checkbox',
-        message: 'Choose the license you would like to use',
-        name:  'license',
-        //choices: [''],
-    },
+    // {
+    //     type: 'checkbox',
+    //     message: 'Choose the license you would like to use',
+    //     name:  'license',
+    //     //choices: [''],
+    // },
     {
         type: 'input',
         message: 'Who are the contributors for this project? (Required)',
@@ -72,7 +72,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then(function(data) {
-        writeToFile("read-me-filesREADME.md", generateMarkdown(data));
+        writeToFile("README.md", generateMarkdown(data));
     })
 }
 

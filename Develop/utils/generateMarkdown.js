@@ -49,16 +49,20 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
   #Installation
-  These programs need to be installed for the application to run: ${data.installation}
+  These programs need to be installed for the application to run: 
+  ${data.installation}
 
   #Usage
-  The application's primary use is ${data.usage}
+  The application's primary use is 
+  ${data.usage}
 
   #Contributing
-  Contributing:  ${data.contributing}
+  Contributing:  
+  ${data.contributing}
 
   #Tests
-  The following commands are needed to run tests: ${data.tests}
+  The following commands are needed to run tests: 
+  ${data.tests}
 
   #Questions
   For any questions please contact ${data.userName} at this email ${data.email}.
