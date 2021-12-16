@@ -1,9 +1,9 @@
 
   
-  # test 6
+  # test 8
   
   # Description  
-  test 6
+  test8
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,19 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test 6
+  test8
 
   # Usage
   The application's primary use is 
-  test 6
+  test8
+
+  # License
+  https://img.shields.io/github/license/test8/test 8
+
 
   # Contributing  
-  test 6
+  test8
 
   # Tests
   The following commands are needed to run tests: 
-  test
+  test8
 
   # Questions
-  For any questions please contact test at this email test.
+  For any questions please contact test8 at this email test8.
 

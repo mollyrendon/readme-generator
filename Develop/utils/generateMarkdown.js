@@ -1,11 +1,11 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
+function renderLicenseBadge(license, userName, project) {
   if(!license) {
     return ``;
   }
   else {
-    return `${license.badge}`
+    return `https://img.shields.io/github/license/${userName}/${project}`
   }
 }
 
@@ -63,6 +63,10 @@ function generateMarkdown(data) {
   # Usage
   The application's primary use is 
   ${data.usage}
+
+  # License
+  ${renderLicenseBadge(data.license, data.userName, data.title)}
+
 
   # Contributing  
   ${data.contributing}
