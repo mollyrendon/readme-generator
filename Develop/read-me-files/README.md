@@ -1,9 +1,9 @@
 
   
-  # test 10
+  # Run Buddy
   
   # Description  
-  test10
+  For some stuff
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test10
+  Commands
 
   # Usage
   The application's primary use is 
-  test10
+  stuff
 
   # License
-  https://img.shields.io/github/license/test10/test 10
+  https://img.shields.io/github/MIT/mollyrendon/Run Buddy
 
 
   # Contributing  
-  test 10
+  Things
 
   # Tests
   The following commands are needed to run tests: 
-  test 10
+  Stuff
 
   # Questions
-  For any questions please contact test10 at this email test10.
+  For any questions please contact mollyrendon at this email bookbat@hotmail.com.
 

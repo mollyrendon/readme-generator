@@ -5,7 +5,7 @@ function renderLicenseBadge(license, userName, project) {
     return ``;
   }
   else {
-    return `https://img.shields.io/github/license/${userName}/${project}`
+    return `https://img.shields.io/github/${license}/${userName}/${project}`
   }
 }
 
