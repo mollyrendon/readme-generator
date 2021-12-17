@@ -1,9 +1,9 @@
 
   
-  # test
+  # testing
   
   # Description  
-  test
+  testing
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test
+  testing
 
   # Usage
   The application's primary use is 
-  test
+  testing
 
   # License
-  https://img.shields.io/github/MIT/test/test
+  https://img.shields.io/github/Apache/testing/testing
 
 
   # Contributing  
-  test
+  testing
 
   # Tests
   The following commands are needed to run tests: 
-  test
+  testing
 
   # Questions
-  For any questions please contact test at this email test.
+  For any questions please contact testing at this email testing.
 
