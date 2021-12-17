@@ -1,9 +1,9 @@
 
   
-  # testb
+  # test4
   
   # Description  
-  testb
+  test4
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  testb
+  test4
 
   # Usage
   The application's primary use is 
-  testb
+  test4
 
   # License
-  https://img.shields.io/github/MPL/testb/testb
+  https://img.shields.io/github/Apache/test4/test4
 
 
   # Contributing  
-  testb
+  test4
 
   # Tests
   The following commands are needed to run tests: 
-  testb
+  test4
 
   # Questions
-  For any questions please contact testb at this email testb.
+  For any questions please contact test4 at this email test4.
 

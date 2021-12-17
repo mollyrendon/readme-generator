@@ -66,7 +66,7 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ${renderLicenseSection(data.license)}
-  ${renderLicenseBadge(data.license, data.userName, data.title)}n
+  ${renderLicenseBadge(data.license, data.userName, data.title)}
 
 
   # Contributing  
