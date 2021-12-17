@@ -60,7 +60,7 @@ const questions = [
     },
     {
         type: 'list',
-        message: 'Choose the license you would like to use.',
+        message: 'Choose the license you would like to use.  Use arrow keys and hit enter when you have made your choice.',
         name:  'license',
         choices: ['MIT', 'Apache', 'MPL', 'None']
     },
