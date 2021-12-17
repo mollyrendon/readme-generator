@@ -1,9 +1,9 @@
 
   
-  # test8
+  # testb
   
   # Description  
-  test8
+  testb
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test8
+  testb
 
   # Usage
   The application's primary use is 
-  test8
+  testb
 
   # License
-  
+  https://img.shields.io/github/MPL/testb/testb
 
 
   # Contributing  
-  test8
+  testb
 
   # Tests
   The following commands are needed to run tests: 
-  test8
+  testb
 
   # Questions
-  For any questions please contact test8 at this email test8.
+  For any questions please contact testb at this email testb.
 

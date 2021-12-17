@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
     return ``;
   }
   else {
-    return `${license.link}`
+    return `* [License](#license)`
   }
 }
 
@@ -28,7 +28,7 @@ function renderLicenseSection(license) {
     return ``;
   }
   else {
-    return `${license.section}`
+    return `# License`;
   }
 }
 
@@ -52,7 +52,7 @@ function generateMarkdown(data) {
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
+  ${renderLicenseLink(data.license)}
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -65,8 +65,8 @@ function generateMarkdown(data) {
   The application's primary use is 
   ${data.usage}
 
-  # License
-  ${renderLicenseBadge(data.license, data.userName, data.title)}
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseBadge(data.license, data.userName, data.title)}n
 
 
   # Contributing  
