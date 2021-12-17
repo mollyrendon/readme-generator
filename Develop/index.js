@@ -59,10 +59,10 @@ const questions = [
           }
     },
     {
-        type: 'checkbox',
-        message: 'Choose the license you would like to use. If none, press enter.',
+        type: 'list',
+        message: 'Choose the license you would like to use.',
         name:  'license',
-        choices: ['MIT', 'Apache', 'MPL',]
+        choices: ['MIT', 'Apache', 'MPL', 'None']
     },
     {
         type: 'input',

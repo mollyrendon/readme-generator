@@ -1,9 +1,9 @@
 
   
-  # testing
+  # test6
   
   # Description  
-  testing
+  test6
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  testing
+  test6
 
   # Usage
   The application's primary use is 
-  testing
+  test6
 
   # License
-  https://img.shields.io/github/Apache/testing/testing
+  https://img.shields.io/github/Apache/test6/test6
 
 
   # Contributing  
-  testing
+  test6
 
   # Tests
   The following commands are needed to run tests: 
-  testing
+  test6
 
   # Questions
-  For any questions please contact testing at this email testing.
+  For any questions please contact test6 at this email test6.
 
