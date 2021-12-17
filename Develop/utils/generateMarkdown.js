@@ -7,6 +7,7 @@ function renderLicenseBadge(license, userName, project) {
   else {
     return `https://img.shields.io/github/${license}/${userName}/${project}`
   }
+  console.log(license);
 }
 
 // TODO: Create a function that returns the license link

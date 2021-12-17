@@ -1,9 +1,9 @@
 
   
-  # Run Buddy
+  # test
   
   # Description  
-  For some stuff
+  test
 
   # Table of Contents
   * [Installation](#installation)
@@ -15,23 +15,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  Commands
+  test
 
   # Usage
   The application's primary use is 
-  stuff
+  test
 
   # License
-  https://img.shields.io/github/MIT/mollyrendon/Run Buddy
+  https://img.shields.io/github/MIT/test/test
 
 
   # Contributing  
-  Things
+  test
 
   # Tests
   The following commands are needed to run tests: 
-  Stuff
+  test
 
   # Questions
-  For any questions please contact mollyrendon at this email bookbat@hotmail.com.
+  For any questions please contact test at this email test.
 

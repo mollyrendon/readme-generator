@@ -10,21 +10,53 @@ const questions = [
         type: 'input',
         message: 'What is the title of your project? (Required)',
         name:  'title',
+        validate: titleInput => {
+            if (titleInput) {
+              return true;
+            } else {
+              console.log('You need to enter a project title!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         message: 'What is the description of your project? (Required)',
         name:  'description',
+        validate: descriptionInput => {
+            if (descriptionInput) {
+              return true;
+            } else {
+              console.log('You need to enter a project description!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         message: 'What are the installation instructions? Dependencies, commands that are needed. (Required)',
         name:  'installation',
+        validate: installationInput => {
+            if (installationInput) {
+              return true;
+            } else {
+              console.log('You need to enter installation instructions!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         message: 'How do you use this application? (Required)',
         name:  'usage',
+        validate: usageInput => {
+            if (usageInput) {
+              return true;
+            } else {
+              console.log('You need to describe how to use this application!');
+              return false;
+            }
+          }
     },
     {
         type: 'checkbox',
@@ -36,21 +68,53 @@ const questions = [
         type: 'input',
         message: 'Who are the contributors for this project? (Required)',
         name:  'contributing',
+        validate: contributingInput => {
+            if (contributingInput) {
+              return true;
+            } else {
+              console.log('You need to list contributers to the project!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         message: 'What commands do you need to run a test on your project? (Required)',
         name:  'tests',
+        validate: testInput => {
+            if (testInput) {
+              return true;
+            } else {
+              console.log('You need to describe which commands you need to run a test!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         message: 'What is your GitHub username? (Required)',
         name:  'userName',
+        validate: userNameInput => {
+            if (userNameInput) {
+              return true;
+            } else {
+              console.log('You need to enter your GitHub username!');
+              return false;
+            }
+          }
     },
     {
         type: 'input',
         message: 'What is your email? (Required)',
         name:  'email',
+        validate: emailInput => {
+            if (emailInput) {
+              return true;
+            } else {
+              console.log('You need to enter your email!');
+              return false;
+            }
+          }
     },
     
 ];
