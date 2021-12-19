@@ -1,38 +1,39 @@
 
-  
+  <img src="https://img.shields.io/github/MPL/stuff/Run Buddy">
 
   
-  # t
+  # Run Buddy
   
   # Description  
-  t
+  To do stuff
 
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
 
   # Installation
   These programs need to be installed for the application to run: 
-  t
+  stuff
 
   # Usage
   The application's primary use is 
-  t
+  stuff
 
-  
+  # License 
+    MPL
   
 
   # Contributing  
-  t
+  test
 
   # Tests
   The following commands are needed to run tests: 
-  t
+  test
 
   # Questions
-  For any questions please contact t at this email t.
+  For any questions please contact stuff at this email stuff.
 
