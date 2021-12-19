@@ -1,11 +1,11 @@
 
-  <img src="https://img.shields.io/github/license/mollyrendon/Test">
+  <img src="https://img.shields.io/github/MIT/test/readme-generator">
 
   
-  # Test
+  # readme-generator
   
   # Description  
-  Test
+  test
 
   # Table of Contents
   * [Installation](#installation)
@@ -17,23 +17,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  Test
+  test
 
   # Usage
   The application's primary use is 
-  Test
+  test
 
   # License 
     MIT
   
 
   # Contributing  
-  Test
+  test
 
   # Tests
   The following commands are needed to run tests: 
-  Test
+  test
 
   # Questions
-  For any questions please contact mollyrendon at this email molly.rendon@hotmail.com.
+  For any questions please contact test at this email test.
 
