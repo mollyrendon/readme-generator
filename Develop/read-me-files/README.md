@@ -1,8 +1,8 @@
 
-  <img src="https://img.shields.io/github/Apache/test/run-buddy">
+  <img src="https://img.shields.io/github/MIT/test3/Run">
 
   
-  # run-buddy
+  # Run
   
   # Description  
   test
@@ -17,23 +17,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test
+  test2
 
   # Usage
   The application's primary use is 
-  test
+  test3
 
   # License 
-    Apache
+    MIT
   
 
   # Contributing  
-  test
+  test3
 
   # Tests
   The following commands are needed to run tests: 
-  test
+  test3
 
   # Questions
-  For any questions please contact test at this email test.
+  For any questions please contact test3 at this email test3.
 
