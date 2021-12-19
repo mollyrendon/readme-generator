@@ -6,9 +6,10 @@ An application designed to generate a README file from commands in terminal usin
 
 # Built With
 
-Node.js
 Javascript
 
 # Contribution
 
 Made by Molly Rendon
+
+https://watch.screencastify.com/v/tLTLG8EHFUQG3vUENTsw
