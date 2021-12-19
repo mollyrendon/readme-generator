@@ -1,11 +1,11 @@
 
-  <img src="https://img.shields.io/github/MPL/stuff/Run Buddy">
+  <img src="https://img.shields.io/github/Apache/test/run-buddy">
 
   
-  # Run Buddy
+  # run-buddy
   
   # Description  
-  To do stuff
+  test
 
   # Table of Contents
   * [Installation](#installation)
@@ -17,14 +17,14 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  stuff
+  test
 
   # Usage
   The application's primary use is 
-  stuff
+  test
 
   # License 
-    MPL
+    Apache
   
 
   # Contributing  
@@ -35,5 +35,5 @@
   test
 
   # Questions
-  For any questions please contact stuff at this email stuff.
+  For any questions please contact test at this email test.
 
