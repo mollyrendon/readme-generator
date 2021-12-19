@@ -5,7 +5,7 @@
   # readme-generator
   
   # Description  
-  test
+  An application designed to generate a README file from commands in terminal using node.js.
 
   # Table of Contents
   * [Installation](#installation)
@@ -17,23 +17,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test
+  Install npm, requires node.js.
 
   # Usage
   The application's primary use is 
-  test
+  Node index.js, follow the prompts, and then generate a README file from that data.  
 
   # License 
     MIT
   
 
   # Contributing  
-  test
+  Molly Rendon.
 
   # Tests
   The following commands are needed to run tests: 
   test
 
   # Questions
-  For any questions please contact mollyrendon at this email test.
+  For any questions please contact mollyrendon at this email molly.rendon@outlook.com.
 
