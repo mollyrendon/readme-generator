@@ -5,7 +5,7 @@ function renderLicenseBadge(license, userName, titleInput) {
     return ``;
   }
   else {
-    return `<img src="https://img.shields.io/github/license/${userName}/${titleInput}">`
+    return `<img src="https://img.shields.io/github/${license}/${userName}/${titleInput}">`
   }
 }
 
@@ -28,7 +28,8 @@ function renderLicenseSection(license) {
     return ``;
   }
   else {
-    return `# License`;
+    return `# License 
+    ${license}`;
   }
 }
 

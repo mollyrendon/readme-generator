@@ -1,11 +1,11 @@
 
-  <img src="https://img.shields.io/github/license/test1/test1">
+  <img src="https://img.shields.io/github/MPL/blah/blah">
 
   
-  # test1
+  # blah
   
   # Description  
-  test1
+  blah
 
   # Table of Contents
   * [Installation](#installation)
@@ -17,22 +17,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test1
+  blah
 
   # Usage
   The application's primary use is 
-  test1
+  blah
 
-  # License
+  # License 
+    MPL
   
 
   # Contributing  
-  test1
+  blah
 
   # Tests
   The following commands are needed to run tests: 
-  test1
+  blah
 
   # Questions
-  For any questions please contact test1 at this email test1.
+  For any questions please contact blah at this email blah.
 
