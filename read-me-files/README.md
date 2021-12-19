@@ -1,5 +1,5 @@
 
-  <img src="https://img.shields.io/github/license/test/readme-generator">
+  <img src="https://img.shields.io/github/license/mollyrendon/readme-generator">
 
   
   # readme-generator
@@ -35,5 +35,5 @@
   test
 
   # Questions
-  For any questions please contact test at this email test.
+  For any questions please contact mollyrendon at this email test.
 
