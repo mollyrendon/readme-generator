@@ -1,5 +1,5 @@
 
-  <img src="https://img.shields.io/github/MIT/test/readme-generator">
+  <img src="https://img.shields.io/github/license/test/readme-generator">
 
   
   # readme-generator
