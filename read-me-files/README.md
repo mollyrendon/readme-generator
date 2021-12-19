@@ -1,11 +1,11 @@
 
-  <img src="https://img.shields.io/github/MIT/test3/Run">
+  <img src="https://img.shields.io/github/license/mollyrendon/Test">
 
   
-  # Run
+  # Test
   
   # Description  
-  test
+  Test
 
   # Table of Contents
   * [Installation](#installation)
@@ -17,23 +17,23 @@
 
   # Installation
   These programs need to be installed for the application to run: 
-  test2
+  Test
 
   # Usage
   The application's primary use is 
-  test3
+  Test
 
   # License 
     MIT
   
 
   # Contributing  
-  test3
+  Test
 
   # Tests
   The following commands are needed to run tests: 
-  test3
+  Test
 
   # Questions
-  For any questions please contact test3 at this email test3.
+  For any questions please contact mollyrendon at this email molly.rendon@hotmail.com.
 
