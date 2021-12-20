@@ -35,13 +35,6 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 
-/*- The code is a function that takes in data and returns the markdown text.
-- The code starts by declaring a variable called data, which is an object with properties for title, description, table of contents, installation instructions, usage instructions, 
-contributing instructions (license), tests (commands needed to run tests), and questions.
-
-- The first line of the function declares the return type as string.
-- This means that when you call this function it will return a string value back.*/
-
 function generateMarkdown(data) {
   return `
   ${renderLicenseBadge(data.license, data.github, data.title)}
