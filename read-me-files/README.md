@@ -21,7 +21,7 @@
 
   # Usage
   The application's primary use is 
-  Node index.js, follow the prompts, and then generate a README file from that data.  
+  Node index.js, follow the prompts, and then generate a README file from that data.
 
   # License 
     MIT
